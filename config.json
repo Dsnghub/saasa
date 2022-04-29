@@ -1,0 +1,89 @@
+{
+    "bot": {
+        "token": "BOT TOKENİNİZİ MAİN KISMINA GİRİNİZ 49. SATIRDA",
+        "owner": ["852834474751950858","499977635389112320"],
+        "prefix": ".",
+        "BotStatus": "MADYEL",
+        "BotFooter": "MADYEL",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "969694727278592030",
+            "log": "969695550997954651",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "969694746949861448",
+            "roles": "969694979163316284",
+            "log": "969695550997954651",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "969694777891250186",
+            "roles": "969694979163316284",
+            "log": "969695550997954651",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "961024054402371624",
+            "log": "969695550997954651"
+        },
+        "transport": {
+            "staff": "964179000803090524"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "969695550997954651",
+        "rollog": "969695550997954651",
+        "messagelog": "969695550997954651",
+        "seslog": "969695550997954651"
+    },
+    "roles": {
+        "vip": "961573125642924052",
+        "sponsor": "961573125642924052",
+        "müzisyen": "961573125642924052",
+        "team": "961573125642924052"
+    },
+    "channels": {
+        "chat": "961024074795089971",
+        "voicechannel": "961024075688448000",
+        "welcomechannel": "964298812334174318",
+        "rules": "965031986232172554"
+    },
+    "registration": {
+        "unregistered": "961024062426083350",
+        "man": ["964317075881463818"],
+        "woman": ["964317075881463818"],
+        "yetkilialim": "961024052930158595",
+        "staff": "969696756512198686",
+        "enaltyetkilirolü": "969696756512198686",
+        "GuilDTag": "İSVEÇ",
+        "TagSymbol": "✧",
+        "autonickname": "$ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "964317075881463818",
+        "onewoman": "964317075881463818",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "961023548145684490",
+        "GuilDName": "İsveç Town",
+        "GuildOwnerRole": ["961024054402371624"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":thumbsup:",
+        "no": ":thumbsdown:"
+
+    }
+} 
